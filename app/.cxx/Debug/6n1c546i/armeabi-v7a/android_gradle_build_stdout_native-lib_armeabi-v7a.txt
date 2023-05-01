@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/omar/AndroidStudioProjects/RechargerFacilement/app/.cxx/Debug/6n1c546i/armeabi-v7a'
+ninja: no work to do.

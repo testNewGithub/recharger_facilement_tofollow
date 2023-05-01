@@ -1,0 +1,16 @@
+# ninja log v5
+18	3298	1660685767	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	47703f39836aba5d
+3299	3972	1660685768	../../../../build/intermediates/cxx/Debug/6n1c546i/obj/x86_64/libnative-lib.so	43878ba1b4d4a3c
+0	5	0	clean	d04d9b44b16d8d9a
+0	4	0	clean	d04d9b44b16d8d9a
+36	874	1660859293	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	47703f39836aba5d
+874	2316	1660859295	../../../../build/intermediates/cxx/Debug/6n1c546i/obj/x86_64/libnative-lib.so	43878ba1b4d4a3c
+0	8	0	clean	d04d9b44b16d8d9a
+0	4	0	clean	d04d9b44b16d8d9a
+60	888	1663687910	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	47703f39836aba5d
+888	2443	1663687912	../../../../build/intermediates/cxx/Debug/6n1c546i/obj/x86_64/libnative-lib.so	43878ba1b4d4a3c
+0	115	0	clean	d04d9b44b16d8d9a
+0	9	0	clean	d04d9b44b16d8d9a
+113	824	1674161560	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	47703f39836aba5d
+824	1921	1674161561	../../../../build/intermediates/cxx/Debug/6n1c546i/obj/x86_64/libnative-lib.so	43878ba1b4d4a3c
+0	4	0	clean	d04d9b44b16d8d9a

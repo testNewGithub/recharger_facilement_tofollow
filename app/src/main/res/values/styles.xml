@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="MyTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#009670</item>
+        <item name="colorPrimaryDark">#009670</item>
+        <item name="colorAccent">#009670</item>
+    </style>
+
+
+
+    <style name="MyTheme.Launcher">
+        <item name="android:windowBackground">@drawable/app_launcher</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

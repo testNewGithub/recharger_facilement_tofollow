@@ -1,0 +1,7 @@
+Executable : /home/omar/Android/Sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/home/omar/AndroidStudioProjects/RechargerFacilement/app/.cxx/RelWithDebInfo/h1v653c0/x86
+native-lib
+jvmArgs : 
+

@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/home/omar/AndroidStudioProjects/RechargerFacilement/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/omar/Android/Sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/home/omar/AndroidStudioProjects/RechargerFacilement/app/.cxx/Debug/6n1c546i/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/omar/Android/Sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/home/omar/AndroidStudioProjects/RechargerFacilement/app/.cxx/Debug/6n1c546i/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "native-lib",
+      "output": "/home/omar/AndroidStudioProjects/RechargerFacilement/app/build/intermediates/cxx/Debug/6n1c546i/obj/arm64-v8a/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/omar/Android/Sdk/ndk/25.0.8775105/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/omar/Android/Sdk/ndk/25.0.8775105/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

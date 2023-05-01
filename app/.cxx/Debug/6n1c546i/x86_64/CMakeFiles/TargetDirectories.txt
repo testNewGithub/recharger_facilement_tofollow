@@ -1,0 +1,3 @@
+/home/omar/AndroidStudioProjects/RechargerFacilement/app/.cxx/Debug/6n1c546i/x86_64/CMakeFiles/rebuild_cache.dir
+/home/omar/AndroidStudioProjects/RechargerFacilement/app/.cxx/Debug/6n1c546i/x86_64/CMakeFiles/edit_cache.dir
+/home/omar/AndroidStudioProjects/RechargerFacilement/app/.cxx/Debug/6n1c546i/x86_64/CMakeFiles/native-lib.dir

@@ -1,0 +1,24 @@
+                    Executable : /home/omar/Android/Sdk/cmake/3.18.1/bin/cmake
+arguments : 
+-H/home/omar/AndroidStudioProjects/RechargerFacilement/app
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=19
+-DANDROID_PLATFORM=android-19
+-DANDROID_ABI=arm64-v8a
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DANDROID_NDK=/home/omar/Android/Sdk/ndk/25.0.8775105
+-DCMAKE_ANDROID_NDK=/home/omar/Android/Sdk/ndk/25.0.8775105
+-DCMAKE_TOOLCHAIN_FILE=/home/omar/Android/Sdk/ndk/25.0.8775105/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/omar/Android/Sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_CXX_FLAGS=-std=c++11 -frtti -fexceptions
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/omar/AndroidStudioProjects/RechargerFacilement/app/build/intermediates/cxx/RelWithDebInfo/h1v653c0/obj/arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/omar/AndroidStudioProjects/RechargerFacilement/app/build/intermediates/cxx/RelWithDebInfo/h1v653c0/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-B/home/omar/AndroidStudioProjects/RechargerFacilement/app/.cxx/RelWithDebInfo/h1v653c0/arm64-v8a
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

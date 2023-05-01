@@ -1,0 +1,7 @@
+Executable : /home/omar/Android/Sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/home/omar/AndroidStudioProjects/RechargerFacilement/app/.cxx/Debug/6n1c546i/armeabi-v7a
+native-lib
+jvmArgs : 
+

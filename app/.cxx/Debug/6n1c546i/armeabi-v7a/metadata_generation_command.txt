@@ -1,0 +1,24 @@
+                    Executable : /home/omar/Android/Sdk/cmake/3.18.1/bin/cmake
+arguments : 
+-H/home/omar/AndroidStudioProjects/RechargerFacilement/app
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=19
+-DANDROID_PLATFORM=android-19
+-DANDROID_ABI=armeabi-v7a
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DANDROID_NDK=/home/omar/Android/Sdk/ndk/25.0.8775105
+-DCMAKE_ANDROID_NDK=/home/omar/Android/Sdk/ndk/25.0.8775105
+-DCMAKE_TOOLCHAIN_FILE=/home/omar/Android/Sdk/ndk/25.0.8775105/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/omar/Android/Sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_CXX_FLAGS=-std=c++11 -frtti -fexceptions
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/omar/AndroidStudioProjects/RechargerFacilement/app/build/intermediates/cxx/Debug/6n1c546i/obj/armeabi-v7a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/home/omar/AndroidStudioProjects/RechargerFacilement/app/build/intermediates/cxx/Debug/6n1c546i/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-B/home/omar/AndroidStudioProjects/RechargerFacilement/app/.cxx/Debug/6n1c546i/armeabi-v7a
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

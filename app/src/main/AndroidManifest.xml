@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.gtari.deltatechenologie.rechargerfacilement">
+
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/recharger_facilemnt_icon_min"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/recharger_facilemnt_icon_min"
+        android:supportsRtl="false"
+        android:screenOrientation="portrait"
+        android:theme="@style/MyTheme"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        tools:ignore="DataExtractionRules">
+
+        <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-4168864559615120~6007578450"/>
+
+        <activity android:name=".MainActivity"
+            android:theme="@style/MyTheme.Launcher"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".GetPemission"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".HelpActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".OtherApplication"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".OtherAppsHikayetteBoulissiya"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity android:name=".CustomItemActivity"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <meta-data android:name="com.google.android.gms.vision.DEPENDENCIES"
+            android:value="ocr"/>
+    </application>
+
+</manifest>

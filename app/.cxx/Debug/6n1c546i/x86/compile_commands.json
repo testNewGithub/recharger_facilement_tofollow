@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/omar/AndroidStudioProjects/RechargerFacilement/app/.cxx/Debug/6n1c546i/x86",
+  "command": "/home/omar/Android/Sdk/ndk/25.0.8775105/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android19 --sysroot=/home/omar/Android/Sdk/ndk/25.0.8775105/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -fno-limit-debug-info  -fPIC -o CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o -c /home/omar/AndroidStudioProjects/RechargerFacilement/app/src/main/cpp/native-lib.cpp",
+  "file": "/home/omar/AndroidStudioProjects/RechargerFacilement/app/src/main/cpp/native-lib.cpp"
+}
+]
